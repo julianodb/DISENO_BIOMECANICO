@@ -69,6 +69,10 @@ A la unidad 3 corresponde 1 prueba escrita y 1 actividad practica, la que se div
 
 El curso se aprueba con promedio final ≥4.0.	
 
+## Bibliografia de la Unidad 3
+
+de Silva, Clarence W. (2007). Sensors and Actuators: Control System Instrumentation. Estados Unidos, CRC Press.
+
 ## Programa de Actividades de la Unidad 3
 
 Desde el inicio del curso se les pedirá a los estudiantes que implementen un sistema biomédico electromecánico (robot, bomba de infusión, prótesis electromecánica, ventilador mecánico, entre otros). El proyecto final comprende la generación de una presentación en que se demuestra todo el proceso de desarrollo e implementación a lo largo del curso.	
