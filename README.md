@@ -49,6 +49,10 @@ El curso se evalúa mediante 3 pruebas escritas que contemplaran las unidades te
 
 Además, los estudiantes deberán desarrollar 3 actividades prácticas y un proyecto final en grupos de 3 personas (máximo), las que serán evaluadas a través de la redacción de informes  (60% de la nota final del laboratorio) y una presentacion (40% de la nota final del laboratorio).  Los laboratorios corresponderán a un 40% de la nota final del curso. 
 
+La siguiente tabla muestra un resúmen de las notas
+
+![notas](img/notas.png)
+
 El estudiante debe aprobar todos los laboratorios (≥4.0). Si reprueba un laboratorio, tiene derecho a repetirlo 1 vez. Por cada dia de atraso en la entrega del informe escrito, se descontará 1 punto (inlcuyendo fin de semana y feriados). La no entrega de un informe de laboratorio será causal de reprobación.
 
 El estudiante tendrá derecho a rendir un Evaluación Final que evaluará todos los contenidos del curso y que reemplazará la calificación más baja de las pruebas escritas. 
