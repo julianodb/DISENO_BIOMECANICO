@@ -25,7 +25,10 @@ A la unidad 3 corresponde 1 prueba escrita y 1 actividad practica, la que se div
 
 ## Bibliografia de la Unidad 3
 
-de Silva, Clarence W. (2007). Sensors and Actuators: Control System Instrumentation. Estados Unidos, CRC Press.
+- de Silva, Clarence W. (2007). Sensors and Actuators: Control System Instrumentation. Estados Unidos, CRC Press.
+  - Capítulos 4, 5, 6, 7 y 8
+- Janocha, Hartmut (2013). Actuators: Basics and Applications. Germany, Springer Berlin Heidelberg.
+  - Capítulos 1 y 2
 
 ## Programa de Actividades de la Unidad 3
 
