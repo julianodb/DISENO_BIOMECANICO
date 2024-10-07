@@ -20,11 +20,11 @@
 |    |     | 30       |  1 |  2 |  3 |  4 |  5 |  6 |
 |  2 | 3-J | 01 L1    |    | LL | LL | LL |    |    |
 |    |     |  7       |  8 |  9 | 10 | 11 | 12 | 13 |
-|  3 | 3-J | 02 L2 I1 |    | 03 |    |    | FF |    |
+|  3 | 3-J | 02 PP I1 |    | L2 |    |    | FF |    |
 |    |     | 14       | 15 | 16 | 17 | 18 | 19 | 20 |
 |  4 | 2-M |          |    |    |    |    |    |    |
 |    |     | 21       | 22 | 23 | 24 | 25 | 26 | 27 |
-|  5 | 3-J | 04 L3    |    | 05 |    |    |    |    |
+|  5 | 3-J | 04 L3    |    | 05 I3 |    |    |    |    |
 |    |     | 28       | 29 | 30 | 31 |  1 |  2 |  3 |
 |  6 | 2-M |          |    |    | FF | FF | FF |    |
 
@@ -91,5 +91,14 @@
 | - | - | - |
 | 01| Introducción | Presentación de la asignatura, introducción a actuadores, introducción a motores DC con escobilla |
 | L1| Lab 1 | $V\ vs.\ \omega$
-| 02| Motores DC | |
-| 03| 
+| I1| Informe 1 | Elección del motor |
+| 02| Modelo del motor DC| Faraday, comportamiento en estado estacionario y dinamico, Torque x Velocidad angular, potencia|
+| 03| Drivers para motores DC I | PWM, MOSFETs |
+| L2| Lab 2 | Drivers, diodo de retorno ? |
+| 04| Drivers para motores DC II | PWM, MOSFETs, diodo de retorno |
+| 05| Control de motores DC | Controld e velocidad, control de posición |
+| 06| Motores brushless | |
+| 07| Motores de paso | |
+| 08| Diseño de PCBs | |
+| 09| Diseño de PCBs | |
+| 10| | |
