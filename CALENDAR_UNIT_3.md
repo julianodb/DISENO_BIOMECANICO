@@ -20,11 +20,11 @@
 |    |     | 30       |  1 |  2 |  3 |  4 |  5 |  6 |
 |  2 | 3-J | 01 L1    |    | LL | LL | LL |    |    |
 |    |     |  7       |  8 |  9 | 10 | 11 | 12 | 13 |
-|  3 | 3-J | 02 PP I1 |    | L2 |    |    | FF |    |
+|  3 | 3-J | 02 PP I1 |    | 03 |    |    | FF |    |
 |    |     | 14       | 15 | 16 | 17 | 18 | 19 | 20 |
 |  4 | 2-M |          |    |    |    |    |    |    |
 |    |     | 21       | 22 | 23 | 24 | 25 | 26 | 27 |
-|  5 | 3-J | 04 L3    |    | 05 I3 |    |    |    |    |
+|  5 | 3-J | 04 L2    |    | 05 |    |    |    |    |
 |    |     | 28       | 29 | 30 | 31 |  1 |  2 |  3 |
 |  6 | 2-M |          |    |    | FF | FF | FF |    |
 
@@ -33,11 +33,11 @@
 |Sem | Uni |Lun    |Mar |Mie |Jue    |Vie |Sab |Dom |
 |:-: |:-:  |:-:    |:-: |:-: |:-:    |:-: |:-: |:-: |
 |    |     |  4    |  5 |  6 |  7    |  8 |  9 | 10 |
-|  7 | 3-J | 06 L4 |    | 07 |       |    |    |    |
+|  7 | 3-J | 06 L3 I3 |    | 07 |       |    |    |    |
 |    |     | 11    | 12 | 13 | 14    | 15 | 16 | 17 |
 |  8 | 2-M |       |    |    |       |    |    |    |
 |    |     | 18    | 19 | 20 | 21    | 22 | 23 | 24 |
-|  9 | 3-J | 08 L5 |    | 09 |       |    |    |    |
+|  9 | 3-J | 08 L4 I5 |    | 09 |       |    |    |    |
 |    |     | 25    | 26 | 27 | 28    | 29 | 30 |  1 |
 | 10 | 2-M |       |    |    |       |    |    |    |
 
@@ -46,7 +46,7 @@
 |Sem | Uni |Lun    |Mar |Mie |Jue |Vie |Sab |Dom |
 |:-: |:-:  |:-:    |:-: |:-: |:-: |:-: |:-: |:-: |
 |    |     |  2    |  3 |  4 |  5 |  6 |  7 |  8 |
-| 11 | 3-J | 10 L6 |    | P3 |    |    |    |    |
+| 11 | 3-J | 10 L5 I7 |    | P3 |    |    |    |    |
 |    |     |  9    | 10 | 11 | 12 | 13 | 14 | 15 |
 | 12 | 2-M |       |    |    |    |    |    |    |
 |    |     | 16    | 17 | 18 | 19 | 20 | 21 | 22 |
@@ -61,9 +61,9 @@
 |    |     | 30    | 31 |  1 |  2 |  3 |  4 |  5 |
 | 15 | 1-B |       |    | FF |    |    |    |    |
 |    |     |  6    |  7 |  8 |  9 | 10 | 11 | 12 |
-| 16 | 1-B | LX    |    | LX |    |    |    |    |
+| 16 | 1-B | LX    |    | LX |    | TT |    |    |
 |    |     | 13    | 14 | 15 | 16 | 17 | 18 | 19 |
-| 17 | 1-B | LX    |    | LX |    |    | TT |    |
+|    |     |       |    |    |    |    |    |    |
 |    |     | 20    | 21 | 22 | 23 | 24 | 25 | 26 |
 |    |     |       |    |    |    |    |    |    |
 
@@ -90,15 +90,21 @@
 | # | Titulo | Descripción |
 | - | - | - |
 | 01| Introducción | Presentación de la asignatura, introducción a actuadores, introducción a motores DC con escobilla |
-| L1| Lab 1 | $V\ vs.\ \omega$
+| L1| Lab 1 | $V\ vs.\ \omega$ |
 | I1| Informe 1 | Elección del motor |
-| 02| Modelo del motor DC| Faraday, comportamiento en estado estacionario y dinamico, Torque x Velocidad angular, potencia|
-| 03| Drivers para motores DC I | PWM, MOSFETs |
+| 02| Modelo del motor DC| Faraday, comportamiento en estado estacionario, Torque x Velocidad angular, potencia, eficiencia|
+| 03| Modelo del motor DC II| Faraday, comportamiento dinamico, Constantes de tiempo, respuesta en frecuencia|
+| 04| Drivers para motores DC I | PWM, MOSFETs |
 | L2| Lab 2 | Drivers, diodo de retorno ? |
-| 04| Drivers para motores DC II | PWM, MOSFETs, diodo de retorno |
-| 05| Control de motores DC | Controld e velocidad, control de posición |
-| 06| Motores brushless | |
-| 07| Motores de paso | |
+| I3| Informe 3 | Driver + Fuente |
+| 05| Drivers para motores DC II | PWM, MOSFETs, diodo de retorno |
+| 06| Control de motores DC | Controld e velocidad, control de posición |
+| L3| Lab 3 | Control de motores DC ? |
+| I5| Informe 5 | Sistema de Control, uC |
+| 07| Diseño de PCBs | |
 | 08| Diseño de PCBs | |
-| 09| Diseño de PCBs | |
-| 10| | |
+| L4| Lab 4 | Diseño de PCBs |
+| I7| Informe 7 | Diseño de las placas, integración del sistema electrónico |
+| 09| Motores brushless | |
+| 10| Motores de paso | |
+| L5| Lab 5 | Diseño de PCBs |
