@@ -26,27 +26,27 @@
 |    |     | 21       | 22 | 23 | 24 | 25 | 26 | 27 |
 |  5 | 3-J | 04 L2    |    | 05 |    |    |    |    |
 |    |     | 28       | 29 | 30 | 31 |  1 |  2 |  3 |
-|  6 | 2-M |          |    |    | FF | FF | FF |    |
+|  6 | 2-M | I3       |    |    | FF | FF | FF |    |
 
 ## NOVIEMBRE / 2024
 
 |Sem | Uni |Lun    |Mar |Mie |Jue    |Vie |Sab |Dom |
 |:-: |:-:  |:-:    |:-: |:-: |:-:    |:-: |:-: |:-: |
 |    |     |  4    |  5 |  6 |  7    |  8 |  9 | 10 |
-|  7 | 3-J | 06 L3 I3 |    | 07 |       |    |    |    |
+|  7 | 3-J | 06 L3 |    | 07 |       |    |    |    |
 |    |     | 11    | 12 | 13 | 14    | 15 | 16 | 17 |
-|  8 | 2-M |       |    |    |       |    |    |    |
+|  8 | 2-M | I5    |    |    |       |    |    |    |
 |    |     | 18    | 19 | 20 | 21    | 22 | 23 | 24 |
-|  9 | 3-J | 08 L4 I5 |    | 09 |       |    |    |    |
+|  9 | 3-J | 08 L4 |    | 09 |       |    |    |    |
 |    |     | 25    | 26 | 27 | 28    | 29 | 30 |  1 |
-| 10 | 2-M |       |    |    |       |    |    |    |
+| 10 | 2-M | I7    |    |    |       |    |    |    |
 
 ## DICIEMBRE / 2024
 
 |Sem | Uni |Lun    |Mar |Mie |Jue |Vie |Sab |Dom |
 |:-: |:-:  |:-:    |:-: |:-: |:-: |:-: |:-: |:-: |
 |    |     |  2    |  3 |  4 |  5 |  6 |  7 |  8 |
-| 11 | 3-J | 10 L5 I7 |    | P3 |    |    |    |    |
+| 11 | 3-J | 10 L5 |    | P3 |    |    |    |    |
 |    |     |  9    | 10 | 11 | 12 | 13 | 14 | 15 |
 | 12 | 2-M |       |    |    |    |    |    |    |
 |    |     | 16    | 17 | 18 | 19 | 20 | 21 | 22 |
@@ -97,9 +97,9 @@
 | 04| Drivers para motores DC I | PWM, MOSFETs |
 | L2| Lab 2 | Drivers, diodo de retorno ? |
 | I3| Informe 3 | Driver + Fuente |
-| 05| Drivers para motores DC II | PWM, MOSFETs, diodo de retorno |
+| 05| Sensores | Encoder, potenciometro |
 | 06| Control de motores DC | Controld e velocidad, control de posición |
-| L3| Lab 3 | Control de motores DC ? |
+| L3| Lab 3 | Diseño de PCBs |
 | I5| Informe 5 | Sistema de Control, uC |
 | 07| Diseño de PCBs | |
 | 08| Diseño de PCBs | |
