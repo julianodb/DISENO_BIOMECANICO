@@ -93,12 +93,12 @@
 | L1| Lab 1 | $V\ vs.\ \omega$ |
 | I1| Informe 1 | Elección del motor |
 | 02| Modelo del motor DC| Faraday, comportamiento en estado estacionario, Torque x Velocidad angular, potencia, eficiencia|
-| 03| Modelo del motor DC II| Faraday, comportamiento dinamico, Constantes de tiempo, respuesta en frecuencia|
-| 04| Drivers para motores DC I | PWM, MOSFETs |
-| L2| Lab 2 | Drivers, diodo de retorno ? |
+| 03| Modelo del motor DC II| Comportamiento dinamico, Constantes de tiempo, respuesta en frecuencia|
+| 04| Drivers para motores DC I | PWM, puente H, diodo de protección |
+| L2| Lab 2 | respuesta dinamica |
 | I3| Informe 3 | Driver + Fuente |
 | 05| Sensores | Encoder, potenciometro |
-| 06| Control de motores DC | Controld e velocidad, control de posición |
+| 06| Control de motores DC | Control de velocidad, control de posición |
 | L3| Lab 3 | Diseño de PCBs |
 | I5| Informe 5 | Sistema de Control, uC |
 | 07| Diseño de PCBs | |
