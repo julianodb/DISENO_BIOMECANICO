@@ -35,9 +35,9 @@
 |    |     |  4    |  5 |  6 |  7    |  8 |  9 | 10 |
 |  7 | 3-J | 06 L3 |    | 07 |       |    |    |    |
 |    |     | 11    | 12 | 13 | 14    | 15 | 16 | 17 |
-|  8 | 2-M | I5    |    |    |       |    |    |    |
+|  8 | 2-M |       |    |    |       |    |    |    |
 |    |     | 18    | 19 | 20 | 21    | 22 | 23 | 24 |
-|  9 | 3-J | 08 L4 |    | 09 |       |    |    |    |
+|  9 | 3-J | 08 L4 |    | 09 I5 |       |    |    |    |
 |    |     | 25    | 26 | 27 | 28    | 29 | 30 |  1 |
 | 10 | 2-M | I7    |    |    |       |    |    |    |
 
@@ -61,7 +61,7 @@
 |    |     | 30    | 31 |  1 |  2 |  3 |  4 |  5 |
 | 15 | 1-B |       |    | FF |    |    |    |    |
 |    |     |  6    |  7 |  8 |  9 | 10 | 11 | 12 |
-| 16 | 1-B | LX    |    | LX |    | TT |    |    |
+| 16 | 1-B |       |    |    |    | TT |    |    |
 |    |     | 13    | 14 | 15 | 16 | 17 | 18 | 19 |
 |    |     |       |    |    |    |    |    |    |
 |    |     | 20    | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -99,7 +99,7 @@
 | I3| Informe 3 | Driver + Fuente |
 | 05| Sensores | Encoder, potenciometro |
 | 06| Control de motores DC | Control de velocidad, control de posición |
-| L3| Lab 3 | Diseño de PCBs |
+| L3| Lab 3 | Diodo de proteccion y PWM |
 | I5| Informe 5 | Sistema de Control, uC |
 | 07| Diseño de PCBs | |
 | 08| Diseño de PCBs | |
