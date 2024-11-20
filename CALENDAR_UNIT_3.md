@@ -103,8 +103,8 @@
 | I5| Informe 5 | Sistema de Control, uC |
 | 07| Diseño de PCBs | |
 | 08| Diseño de PCBs | |
-| L4| Lab 4 | Diseño de PCBs |
+| L4| Diseño de PCBs | Diseño de PCBs |
 | I7| Informe 7 | Diseño de las placas, integración del sistema electrónico |
-| 09| Motores brushless | |
-| 10| Motores de paso | |
-| L5| Lab 5 | Diseño de PCBs |
+| 09| Diseño de PCBs | |
+| 10| Motores brushless y Motores de paso | |
+| L5| Motores brushless y Motores de paso |  |
